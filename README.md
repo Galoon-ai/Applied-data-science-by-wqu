@@ -1,6 +1,6 @@
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/7/72/WQU_logo_color.png" width="250">
 
-# :star: Applied Data Science Lab [2024]
+# :star: Applied Data Science Lab [2026]
 <br>
 
 The [Applied Data Science Lab](https://www.wqu.edu/programs/applied-ds-lab/), offered by *WorldQuant University*, is an immersive online program designed to equip students with practical skills in addressing real-world, intricate challenges. Spanning over 16 weeks, the program engages participants in a series of comprehensive data science projects that enable them to develop proficiency in data wrangling, analysis, model-building and effective communication through hands-on experience.
